@@ -5,3 +5,8 @@ The dataset I used for this project is Motor Vehicle Collisions in New York City
 Also with the Dataset, I have provided my project file in .py format. 
 <br>
 <b>Note: If you want to run the file in your system make sure python and streamlit are pre installed.</b>
+<br>
+install anaconda from here: https://www.anaconda.com/products/distribution
+<br>
+install streamlit from here: https://docs.streamlit.io/library/get-started/installation
+
